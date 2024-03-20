@@ -35,3 +35,5 @@ image_path = '/Users/LIFE/Documents/Projects/object_detection_project/20170922_1
 
 # Perform prediction on the test image
 predict_mask(image_path)
+
+print("inferencing completed")
